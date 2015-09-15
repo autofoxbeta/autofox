@@ -24,7 +24,6 @@ $(document).ready(function() {
 
 	    e.preventDefault();
 	    var token = $('input[name="_token"]').val();
-	    alert(token);
 	    var email = $('#InputEmail').val();
 		var name = $('#InputName').val();
 		var telephone = $('#InputTelephone').val();
@@ -45,7 +44,6 @@ $(document).ready(function() {
 	        },
 	        error: function(e){
 				$('#contact-form-submit').html('<i class="fa fa-refresh"></i> Try again');
-				console.log(e);
 	        }
 	    });
 	});
