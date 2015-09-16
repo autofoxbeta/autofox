@@ -243,8 +243,9 @@
 				<p>We’re excited about serving the greater Toronto area and offering you a new and better auto service experience.</p>
 				<p>If you’re interested in booking an appointment or just have a few questions, feel free to call us.</p>
 				<p>Looking forward to hearing from you!</p>
+				<img src="assets/images/eden.png" alt="" style="width: 120px; margin-top: 10px">
 				<p style="margin-top: 20px;"><span class="emphasis">Eden Dhaliwal</span><br>Co-founder <br>Autofox</p>
-				<!-- <img src="assets/images/avatar.jpg" alt=""> -->
+				
 				</div>
 			</div>
 		</div>
@@ -349,7 +350,7 @@
 			</div>
 
 			<div class="row">
-				{!! Form::open(['id' => 'contact-form']) !!}
+				<form id="contact-form">
 					<div class="container">
 						<div class="row">
 						<div class="col-md-4">
@@ -394,7 +395,7 @@
 					<div class="row flex-row">
 							<div class="col-md-8">
 								<div class="form-group">
-								    <textarea class="form-control" id="InputMessage" rows="5" placeholder="Message" required></textarea>
+								    <textarea class="form-control" rows="5" placeholder="Message" required></textarea>
 							  	</div>
 							</div>
 							<div class="col-md-4 flex-column">
@@ -402,7 +403,7 @@
 								<button type="submit" id="contact-form-submit" class="btn btn-xl btn-primary-normal col-md-12 first col-md-offset-0 col-sm-8 col-xs-8 col-sm-offset-2 col-xs-offset-2"><i class="fa fa-check-circle-o"></i> Submit</button>
 							</div>
 					</div>
-				{!! Form::close() !!}
+				</form>
 			</div>	
 		</div>
 	</section>
