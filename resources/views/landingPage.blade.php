@@ -89,7 +89,7 @@
 							<button class="btn btn-xl btn-primary-negative col-md-4 col-md-offset-0 col-sm-8 col-xs-12 col-sm-offset-1" data-scroll-nav="5">Get started now</button>
 							<div class="col-md-2 hidden-xs hidden-sm"></div>
 						</div>
-						<h4><a href="tel:+18448794204" class="telephone">+1 844 879 4204</a></h4>
+						<h4><a class="telephone" style="display: none;">+1 844 879 4204</a></h4>
 					</div>
 				</div>
 				<div class="row">
@@ -163,7 +163,7 @@
 							</div>
 							<div class="col-md-8 col-sm-9" >
 								<h5>Contact us</h5>
-								<p>Contact us through our +1 844 879 4204 number or our form below. Let us know what kind of repair or maintenance you are looking for. If you don’t know what’s wrong with your car, we can book a <strong>FREE</strong> inspection for you.</p>
+								<p>Contact us through our <span style="display: none;">+1 844 879 4204</span> number or our form below. Let us know what kind of repair or maintenance you are looking for. If you don’t know what’s wrong with your car, we can book a <strong>FREE</strong> inspection for you.</p>
 							</div>
 						</div>
 					</div>
@@ -211,7 +211,7 @@
 						<div class="testimonial-tab text-center">
 							<p class="lead">‘Super convenient. If you don’t want to spend hours without your car, Autofox is the way to go. Having it done at my house is a real time saver.’</p>
 							<!-- <p><div class="avatar" style="width: 50px; height: 50px;"></div></p> -->
-							<p><small>Jack Efron</small></p>
+							<p><small>Mark Atkins</small></p>
 						</div>
 						<div class="testimonial-tab text-center">
 							<p class="lead">‘Very helpful and professional mechanic. The price and convenience make Autofox really worth sticking to.’</p>
@@ -237,7 +237,7 @@
 				<div class="col-md-12">
 				<!-- <p class="lead emphasis" style="margin-top: 20px;">Co-founders message</p> -->
 				<p>We believe taking care of your car should be easy. At the moment, it’s an unpleasant hassle.</p>
-				<p>We know how much you depend on your car for work and life, how inconvenient it is dealing with most garages, and how unexpected car costs can really hurt your wallet. Add in the harsh winters and ongoing potholes of Canadian life, and you and your car face even more stress.</p>
+				<p>We know how much you depend on your car for work and life, how inconvenient it is dealing with most garages, and how unexpected car costs can really hurt your wallet. Add in the harsh winters and ongoing potholes of Canadian life, and you & your car face even more stress.</p>
 				<p>This is why we’re on a mission to change how auto services work. We want to change your auto service experience to be more seamless, affordable and trustworthy.</p>
 				<p>Our team of auto technicians are fully licensed and have decades of experience working on both foreign and domestic makes & models. Not only will we provide a quality auto technician to make sure your car is running well, but we’ll come to you and it will save you an average of 20-30%.</p>
 				<p>We’re excited about serving the greater Toronto area and offering you a new and better auto service experience.</p>
@@ -333,7 +333,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					<p style="display: none;">125A Building, Road Street, Ontario, CAN</p>
-					<p>+1 844 879 4204 | hello@autofox.ca</p>
+					<p><span style="display: none;">+1 844 879 4204</span> | hello@autofox.ca</p>
 					<p><a href="https://twitter.com/AutofoxRepair"><i class="fa fa-twitter-square fa-3x"></i></a>&nbsp;&nbsp;
 					<a href="https://www.facebook.com/AutofoxRepair"><i class="fa fa-facebook-square fa-3x"></i></a>&nbsp;&nbsp;
 					<a href="https://plus.google.com/b/102976770936313506443/102976770936313506443"><i class="fa fa-google-plus-square fa-3x"></i></a>&nbsp;&nbsp;
@@ -413,7 +413,7 @@
 			<div class="row">
 				<div class="col-md-4 col-md-offset-4 text-center">
 					<img src="assets/images/logo.png" alt="autofox">
-					<h3 class="lead">+1 844 879 4204</h3>
+					<h3 class="lead" style="display: none;">+1 844 879 4204</h3>
 					<p><small>&copy; 2015 AUTOFOX CANADA. All rights reserved</small></p>
 				</div>
 			</div>
