@@ -89,7 +89,7 @@
 							<button class="btn btn-xl btn-primary-negative col-md-4 col-md-offset-0 col-sm-8 col-xs-8 col-sm-offset-2 col-xs-offset-2" data-scroll-nav="5">Get started now</button>
 							<div class="col-md-2 hidden-xs hidden-sm"></div>
 						</div>
-						<h4><a href="tel:+12345678901" class="telephone">+1 234 567 8901</a></h4>
+						<h4><a href="tel:+18448794204" class="telephone">+1 844 879 4204</a></h4>
 					</div>
 				</div>
 				<div class="row">
@@ -163,7 +163,7 @@
 							</div>
 							<div class="col-md-8 col-sm-9" >
 								<h5>Contact us</h5>
-								<p>Contact us through our +1 234 567 8901 number or our form below. Let us know what kind of repair or maintenance you are looking for. If you don’t know what’s wrong with your car, we can book a <strong>FREE</strong> inspection for you.</p>
+								<p>Contact us through our +1 844 879 4204 number or our form below. Let us know what kind of repair or maintenance you are looking for. If you don’t know what’s wrong with your car, we can book a <strong>FREE</strong> inspection for you.</p>
 							</div>
 						</div>
 					</div>
@@ -245,7 +245,6 @@
 				<p>Looking forward to hearing from you!</p>
 				<img src="assets/images/eden.png" alt="" style="width: 120px; margin-top: 10px">
 				<p style="margin-top: 20px;"><span class="emphasis">Eden Dhaliwal</span><br>Co-founder <br>Autofox</p>
-				
 				</div>
 			</div>
 		</div>
@@ -350,7 +349,7 @@
 			</div>
 
 			<div class="row">
-				<form id="contact-form">
+				{!! Form::open(['id' => 'contact-form']) !!}
 					<div class="container">
 						<div class="row">
 						<div class="col-md-4">
@@ -395,7 +394,7 @@
 					<div class="row flex-row">
 							<div class="col-md-8">
 								<div class="form-group">
-								    <textarea class="form-control" rows="5" placeholder="Message" required></textarea>
+								    <textarea class="form-control" id="InputMessage" rows="5" placeholder="Message" required></textarea>
 							  	</div>
 							</div>
 							<div class="col-md-4 flex-column">
@@ -403,7 +402,7 @@
 								<button type="submit" id="contact-form-submit" class="btn btn-xl btn-primary-normal col-md-12 first col-md-offset-0 col-sm-8 col-xs-8 col-sm-offset-2 col-xs-offset-2"><i class="fa fa-check-circle-o"></i> Submit</button>
 							</div>
 					</div>
-				</form>
+				{!! Form::close() !!}
 			</div>	
 		</div>
 	</section>
@@ -414,7 +413,7 @@
 			<div class="row">
 				<div class="col-md-4 col-md-offset-4 text-center">
 					<img src="assets/images/logo.png" alt="autofox">
-					<h3 class="lead">+1 234 567 8901</h3>
+					<h3 class="lead">+1 844 879 4204</h3>
 					<p><small>&copy; 2015 AUTOFOX CANADA. All rights reserved</small></p>
 				</div>
 			</div>
