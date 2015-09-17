@@ -16,7 +16,7 @@
 // font
 
 // @font-face{
-//     font-family: "Gotham-Book";
+//     font-family: "Gotham-Book";q
 //     src: url('../assets/font/GothamBook.ttf') format('truetype'),
 //     url('../assets/font/GothamBook.ttf') format('truetype'); /* IE */
 // }
@@ -192,7 +192,7 @@ header nav, .navbar{
 		.title{
 			font-family: 'Montserrat', sans-serif;
 			font-weight: lighter;
-			font-size: 2.9em;
+			font-size: 3.2rem;
 		}
 
 		.subtitle{
@@ -206,7 +206,7 @@ header nav, .navbar{
 
 		.telephone{
 			font-family: 'Montserrat', sans-serif;
-			font-size: 4rem;
+			font-size: 3.2rem;
 			color: @navTextColor; 
 		}
 
@@ -428,6 +428,17 @@ footer{
 
 // responsive util
 
+@media (max-width: 767px) {
+
+.testimonial{
+	font-size: 1.9rem;
+
+	.lead{
+		font-size: 3.0rem;
+	}
+}
+}
+
 @media (max-width: 992px) {
   	.btn-primary-normal {
    		margin-bottom: 5px;
@@ -442,12 +453,3 @@ footer{
 	height: 100%;
 }
 
-@media (max-width: 767px) {
-.testimonial{
-	font-size: 1.9rem;
-
-	.lead{
-		font-size: 3.0rem;
-	}
-}
-}

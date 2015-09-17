@@ -85,8 +85,8 @@
 						<h5 class="subtitle hidden-xs hidden-sm">Save money. Save time. Get quality care.</h5>
 						<div class="row" style="margin: 30px 0">
 							<div class="col-md-2 hidden-xs hidden-sm"></div>
-							<button class="btn btn-xl btn-primary-normal col-md-4 first col-md-offset-0 col-sm-8 col-xs-8 col-sm-offset-2 col-xs-offset-2" data-scroll-nav="1">Tell me more</button>
-							<button class="btn btn-xl btn-primary-negative col-md-4 col-md-offset-0 col-sm-8 col-xs-8 col-sm-offset-2 col-xs-offset-2" data-scroll-nav="5">Get started now</button>
+							<button class="btn btn-xl btn-primary-normal col-md-4 first col-md-offset-0 col-sm-8 col-xs-12 col-sm-offset-1" data-scroll-nav="1">Tell me more</button>
+							<button class="btn btn-xl btn-primary-negative col-md-4 col-md-offset-0 col-sm-8 col-xs-12 col-sm-offset-1" data-scroll-nav="5">Get started now</button>
 							<div class="col-md-2 hidden-xs hidden-sm"></div>
 						</div>
 						<h4><a href="tel:+18448794204" class="telephone">+1 844 879 4204</a></h4>
@@ -333,7 +333,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					<p style="display: none;">125A Building, Road Street, Ontario, CAN</p>
-					<p>+1 234 567 8901 +1 234 567 8901 | hello@autofox.ca</p>
+					<p>+1 844 879 4204 | hello@autofox.ca</p>
 					<p><a href="https://twitter.com/AutofoxRepair"><i class="fa fa-twitter-square fa-3x"></i></a>&nbsp;&nbsp;
 					<a href="https://www.facebook.com/AutofoxRepair"><i class="fa fa-facebook-square fa-3x"></i></a>&nbsp;&nbsp;
 					<a href="https://plus.google.com/b/102976770936313506443/102976770936313506443"><i class="fa fa-google-plus-square fa-3x"></i></a>&nbsp;&nbsp;
