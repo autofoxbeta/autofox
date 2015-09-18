@@ -163,7 +163,7 @@
 							</div>
 							<div class="col-md-8 col-sm-9" >
 								<h5>Contact us</h5>
-								<p>Contact us through our <span style="display: none;">+1 844 879 4204</span> number or our form below. Let us know what kind of repair or maintenance you are looking for. If you don’t know what’s wrong with your car, we can book a <strong>FREE</strong> inspection for you.</p>
+								<p>'Contact us through our number or our form below. Let us know what kind of repair or maintenance you are looking for. If you don’t know what’s wrong with your car, we can book a <strong>FREE</strong> inspection for you.</p>
 							</div>
 						</div>
 					</div>
@@ -326,14 +326,14 @@
 
 			<div class="row">
 				<div class="col-sm-12 col-md-4">
-					<h3 class="inverse">Contact <br><span>us</span></h3>
+					<h3 class="inverse" style="margin-bottom: 10px;">Contact <br><span>us</span></h3>
 				</div>
 			</div>
 
 			<div class="row">
 				<div class="col-md-4">
 					<p style="display: none;">125A Building, Road Street, Ontario, CAN</p>
-					<p><span style="display: none;">+1 844 879 4204</span> | hello@autofox.ca</p>
+					<p style="display: none;"><span>+1 844 879 4204</span> | hello@autofox.ca</p>
 					<p><a href="https://twitter.com/AutofoxRepair"><i class="fa fa-twitter-square fa-3x"></i></a>&nbsp;&nbsp;
 					<a href="https://www.facebook.com/AutofoxRepair"><i class="fa fa-facebook-square fa-3x"></i></a>&nbsp;&nbsp;
 					<a href="https://plus.google.com/b/102976770936313506443/102976770936313506443"><i class="fa fa-google-plus-square fa-3x"></i></a>&nbsp;&nbsp;
