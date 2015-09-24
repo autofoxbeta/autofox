@@ -54,7 +54,7 @@
 		        <span class="icon-bar"></span>
 		      </button>
 		      	<a class="navbar-brand" href="#">
-		      		<img src="assets/images/logo.png" alt="autofox">
+		      		<img src="assets/images/logo.png" alt="autofox" data-scroll-nav="0">
 				</a>
 		      </a>
 		    </div>
@@ -73,7 +73,7 @@
 		</nav>
 
 		<!-- Jumbotron -->
-		<main class="jumbotron">
+		<main class="jumbotron" data-scroll-index="0">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 jumbotron-padding hidden-xs hidden-sm"></div>
@@ -412,9 +412,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4 col-md-offset-4 text-center">
-					<img src="assets/images/logo.png" alt="autofox">
+					<img src="assets/images/logo.png" alt="autofox" style="margin-left: 0px">
 					<h3 class="lead" style="display: none;">+1 844 879 4204</h3>
-					<p><small>&copy; 2015 AUTOFOX CANADA. All rights reserved</small></p>
+					<p style="margin-top: 10px"><small>&copy; 2015 AUTOFOX CANADA. All rights reserved</small></p>
 				</div>
 			</div>
 		</div>
