@@ -353,7 +353,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					<p style="display: none;">125A Building, Road Street, Ontario, CAN</p>
-					<p><span>+1 844 879 4204</span> | hello@autofox.ca</p>
+					<p><span>+1 800 779 1980</span> | hello@autofox.ca</p>
 					<p><a href="https://twitter.com/AutofoxRepair"><i class="fa fa-twitter-square fa-3x"></i></a>&nbsp;&nbsp;
 					<a href="https://www.facebook.com/AutofoxRepair"><i class="fa fa-facebook-square fa-3x"></i></a>&nbsp;&nbsp;
 					<a href="https://plus.google.com/b/102976770936313506443/102976770936313506443"><i class="fa fa-google-plus-square fa-3x"></i></a>&nbsp;&nbsp;
