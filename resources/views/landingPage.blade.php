@@ -5,6 +5,25 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Autofox</title>
 
+	<meta name="description" content="We’re taking the pain out of Car Repair & Maintenance. Save money. Save time. Get quality care. " />
+	<meta name="keywords" content="Autofox, autofox" />
+	<meta name="author" content="metatags generator">
+	<meta name="robots" content="index, follow">
+	<meta name="revisit-after" content="3 month">
+
+	<meta property="og:title" content="Autofox">
+	<meta property="og:site_name" content="Autofox">
+	<meta property="og:url" content="http://www.autofox.ca/">
+	<meta property="og:description" content="We’re taking the pain out of Car Repair & Maintenance. Save money. Save time. Get quality care.">
+	<meta property="og:type" content="business.business">
+	<meta property="og:image" content="http://www.autofox.ca/assets/icon/android-icon-192x192.png"/>
+
+	<meta name="twitter:card" content="product">
+	<meta name="twitter:site" content="@AutofoxRepair">
+	<meta name="twitter:title" content="Autofox">
+	<meta name="twitter:description" content="We’re taking the pain out of Car Repair & Maintenance. Save money. Save time. Get quality care.">
+	<meta name="twitter:image:src" content="http://www.autofox.ca/assets/icon/android-icon-192x192.png">
+
 	<link rel="apple-touch-icon" sizes="57x57" href="assets/icon/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="assets/icon/apple-icon-60x60.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="assets/icon/apple-icon-72x72.png">
@@ -63,6 +82,7 @@
 		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		      
 		      <ul class="nav navbar-nav navbar-right">
+		      	<li><a href="#" data-scroll-nav="0">Home</a></li>
 		        <li><a href="#" data-scroll-nav="1">How it works</a></li>
 		        <li><a href="#" data-scroll-nav="2">Testimonials</a></li>
 		        <li><a href="#" data-scroll-nav="3">About us</a></li>
@@ -89,7 +109,7 @@
 							<button class="btn btn-xl btn-primary-negative col-md-4 col-md-offset-0 col-sm-8 col-xs-12 col-sm-offset-1" data-scroll-nav="5">Get started now</button>
 							<div class="col-md-2 hidden-xs hidden-sm"></div>
 						</div>
-						<h4><a class="telephone">+1 800-779-1980</a></h4>
+						<h4><a class="telephone">+1 800 779 1980</a></h4>
 					</div>
 				</div>
 				<div class="row">
@@ -163,7 +183,7 @@
 							</div>
 							<div class="col-md-8 col-sm-9" >
 								<h5>Contact us</h5>
-								<p>Contact us at +1 800-779-1980 or though our form below. Let us know what kind of repair or maintenance you are looking for. If you don’t know what’s wrong with your car, we can book a <strong>FREE</strong> inspection for you.</p>
+								<p>Contact us at +1 800 779 1980 or though our form below. Let us know what kind of repair or maintenance you are looking for. If you don’t know what’s wrong with your car, we can book a <strong>FREE</strong> inspection for you.</p>
 							</div>
 						</div>
 					</div>
@@ -333,7 +353,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					<p style="display: none;">125A Building, Road Street, Ontario, CAN</p>
-					<p style="display: none;"><span>+1 844 879 4204</span> | hello@autofox.ca</p>
+					<p><span>+1 844 879 4204</span> | hello@autofox.ca</p>
 					<p><a href="https://twitter.com/AutofoxRepair"><i class="fa fa-twitter-square fa-3x"></i></a>&nbsp;&nbsp;
 					<a href="https://www.facebook.com/AutofoxRepair"><i class="fa fa-facebook-square fa-3x"></i></a>&nbsp;&nbsp;
 					<a href="https://plus.google.com/b/102976770936313506443/102976770936313506443"><i class="fa fa-google-plus-square fa-3x"></i></a>&nbsp;&nbsp;
@@ -413,7 +433,7 @@
 			<div class="row">
 				<div class="col-md-4 col-md-offset-4 text-center">
 					<img src="assets/images/logo.png" alt="autofox" style="margin-left: 0px">
-					<h3 class="lead">+1 800-779-1980</h3>
+					<h3 class="lead">+1 800 779 1980</h3>
 					<p><small>&copy; 2015 AUTOFOX CANADA. All rights reserved</small></p>
 				</div>
 			</div>
