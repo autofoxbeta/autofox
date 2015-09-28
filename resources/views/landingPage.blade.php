@@ -6,7 +6,7 @@
 	<title>Autofox</title>
 
 	<meta name="description" content="We’re taking the pain out of Car Repair & Maintenance. Save money. Save time. Get quality care. " />
-	<meta name="keywords" content="Autofox, autofox" />
+	<meta name="keywords" content="Car Repair, Car Maintenance, Repair, Inspection, Autofox, autofox" />
 	<meta name="author" content="metatags generator">
 	<meta name="robots" content="index, follow">
 	<meta name="revisit-after" content="3 month">
