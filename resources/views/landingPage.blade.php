@@ -24,23 +24,25 @@
 	<meta name="twitter:description" content="We’re taking the pain out of Car Repair & Maintenance. Save money. Save time. Get quality care.">
 	<meta name="twitter:image:src" content="http://www.autofox.ca/assets/icon/android-icon-192x192.png">
 
-	<link rel="apple-touch-icon" sizes="57x57" href="assets/icon/apple-icon-57x57.png">
-	<link rel="apple-touch-icon" sizes="60x60" href="assets/icon/apple-icon-60x60.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="assets/icon/apple-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="76x76" href="assets/icon/apple-icon-76x76.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="assets/icon/apple-icon-114x114.png">
-	<link rel="apple-touch-icon" sizes="120x120" href="assets/icon/apple-icon-120x120.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="assets/icon/apple-icon-144x144.png">
-	<link rel="apple-touch-icon" sizes="152x152" href="assets/icon/apple-icon-152x152.png">
-	<link rel="apple-touch-icon" sizes="180x180" href="assets/icon/apple-icon-180x180.png">
-	<link rel="icon" type="image/png" sizes="192x192"  href="assets/icon/android-icon-192x192.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="assets/icon/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="96x96" href="assets/icon/favicon-96x96.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="assets/icon/favicon-16x16.png">
-	<link rel="manifest" href="assets/icon/manifest.json">
-	<meta name="msapplication-TileColor" content="#ffffff">
-	<meta name="msapplication-TileImage" content="assets/icon/ms-icon-144x144.png">
-	<meta name="theme-color" content="#ffffff">
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="apple-mobile-web-app-title" content="Autofox">
+	<meta name="application-name" content="Autofox">
+	<meta name="msapplication-TileColor" content="#f79625">
+	<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+	<meta name="theme-color" content="#f79625">
 
 	<!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -109,7 +111,7 @@
 							<button class="btn btn-xl btn-primary-negative col-md-4 col-md-offset-0 col-sm-8 col-xs-12 col-sm-offset-1" data-scroll-nav="5">Get started now</button>
 							<div class="col-md-2 hidden-xs hidden-sm"></div>
 						</div>
-						<h4><a class="telephone">+1 800 779 1980</a></h4>
+						<h4><a class="telephone">+1 800-779-1980</a></h4>
 					</div>
 				</div>
 				<div class="row">
@@ -183,7 +185,7 @@
 							</div>
 							<div class="col-md-8 col-sm-9" >
 								<h5>Contact us</h5>
-								<p>Contact us at +1 800 779 1980 or though our form below. Let us know what kind of repair or maintenance you are looking for. If you don’t know what’s wrong with your car, we can book a <strong>FREE</strong> inspection for you.</p>
+								<p>Contact us at +1 800-779-1980 or though our form below. Let us know what kind of repair or maintenance you are looking for. If you don’t know what’s wrong with your car, we can book a <strong>FREE</strong> inspection for you.</p>
 							</div>
 						</div>
 					</div>
@@ -353,7 +355,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					<p style="display: none;">125A Building, Road Street, Ontario, CAN</p>
-					<p><span>+1 800 779 1980</span> | hello@autofox.ca</p>
+					<p><span>+1 800-779-1980</span></p>
 					<p><a href="https://twitter.com/AutofoxRepair"><i class="fa fa-twitter-square fa-3x"></i></a>&nbsp;&nbsp;
 					<a href="https://www.facebook.com/AutofoxRepair"><i class="fa fa-facebook-square fa-3x"></i></a>&nbsp;&nbsp;
 					<a href="https://plus.google.com/b/102976770936313506443/102976770936313506443"><i class="fa fa-google-plus-square fa-3x"></i></a>&nbsp;&nbsp;
@@ -433,7 +435,7 @@
 			<div class="row">
 				<div class="col-md-4 col-md-offset-4 text-center">
 					<img src="assets/images/logo.png" alt="autofox" style="margin-left: 0px">
-					<h3 class="lead">+1 800 779 1980</h3>
+					<h3 class="lead">+1 800-779-1980</h3>
 					<p><small>&copy; 2015 AUTOFOX CANADA. All rights reserved</small></p>
 				</div>
 			</div>
