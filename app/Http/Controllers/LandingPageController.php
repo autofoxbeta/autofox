@@ -39,7 +39,7 @@ class LandingPageController extends Controller
         $input = Request::all();
 
         Mail::send('emails.welcome', $input, function ($message) {
-            $message->from('bbb@njetoperz.com', 'Autofox');
+            $message->from('contactform@autofox.ca', 'Autofox');
             $message->subject("New client");
             $message->to("fhuntley@kingstonsf.com");
         });
