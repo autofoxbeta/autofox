@@ -95,7 +95,7 @@
 		</nav>
 
 		<!-- Jumbotron -->
-		<main class="jumbotron" data-scroll-index="0">
+		<main class="jumbotron parallax-window" data-parallax="scroll" data-image-src="assets/images/jumbotron-background.jpg" data-speed="0.4" data-z-index="0" data-scroll-index="0">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 jumbotron-padding hidden-xs hidden-sm"></div>
@@ -343,7 +343,7 @@
 	</section>
 
 	<!-- Contact form -->
-	<section id="contactUs" class="contact-us" data-scroll-index="5">
+	<section id="contactUs" class="contact-us parallax-window" data-parallax="scroll" data-image-src="assets/images/contact-form-background.jpg" data-speed="0.4" data-z-index="0" data-scroll-index="5">
 		<div class="container"> 
 
 			<div class="row">
@@ -463,6 +463,7 @@
 
 	<script src="owl-carousel/owl.carousel.min.js"></script>
 	<script src="js/scrollIt.min.js"></script>
+	<script src="js/parallax.min.js"></script>
 	<script src="js/autoload.js"></script>
 </body>
 </html>
