@@ -16,6 +16,55 @@ $(document).ready(function() {
     	e.preventDefault();
   	});
 
+	$(window).scroll(function(){
+	    var scrollPos = $(document).scrollTop();
+
+	    if(scrollPos >= 100){
+	    	
+	    	
+
+	    	$(".logo-small").hide(0, function(){ // zmiana na wąski navbar
+	    		$(".navbar").removeClass("nav-static");
+	    		$(".navbar").addClass('navbar-fixed-top');
+
+	    		// $(".navbar-ghost").addClass('navbar-ghost-visible');
+	    		$(".logo-big").fadeIn(0); // pokazanie loga 1 linijkowego
+	    		
+	   			$(".navbar").css("min-height", "64px");
+	    		$(".navbar").css("height", "64px");
+	    		$(".navbar-right").css("margin-top", "4px");
+	    		$(".navbar-header").css("margin-bottom", "0px");
+	    		// $(".navbar .container").css("margin-top", "15px");
+
+				// $(".navbar-brand").css("height", "auto");
+	    	});
+	    }else{
+	    	
+	    	$(".navbar").removeClass('navbar-fixed-top');
+	    	$(".navbar").addClass("nav-static");
+
+	    	$(".logo-big").hide(0, function(){ // zmiana na szeroki navbar
+	    		
+	    		
+	    		// $(".navbar-ghost").removeClass('navbar-ghost-visible');
+	    		$(".logo-small").fadeIn(0);	// pokazanie loga 2 linijkowego
+	    		
+	    		$(".navbar").css("min-height", "80px");
+	    		$(".navbar").css("height", "80px");
+	    		$(".navbar-right").css("margin-top", "13px"); 
+	    		$(".navbar-header").css("margin-bottom", "14px");
+	    		// $(".navbar .container").css("margin-top", "15px");
+	    		
+	    		// $(".navbar-brand").css("height", "50px");
+	    	
+	    	});
+
+	    	
+			// $(".navbar").animate({height: "10vh"}, 300);
+	    }
+	    console.log(scrollPos);
+	});
+
     $( '#contact-form-submit' ).on('click', function(e) {
 
     	if(!$("#contact-form")[0].checkValidity()){
