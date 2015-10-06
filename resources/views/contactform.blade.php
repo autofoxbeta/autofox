@@ -83,11 +83,11 @@
 		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		      
 		      <ul class="nav navbar-nav navbar-right">
-		      	<li><a href="#" data-scroll-nav="0">Home</a></li>
-		        <li><a href="#" data-scroll-nav="1">How it works</a></li>
-		        <li><a href="#" data-scroll-nav="2">Testimonials</a></li>
-		        <li><a href="#" data-scroll-nav="3">About us</a></li>
-		        <li><a href="#" data-scroll-nav="5">Contact us</a></li>
+		      	<li><a href="../">Home</a></li>
+		        <li><a href="../#howItWorks">How it works</a></li>
+		        <li><a href="../#testimonial">Testimonials</a></li>
+		        <li><a href="../#ourCompany">About us</a></li>
+		        <li><a href="../#contactUs">Contact us</a></li>
 		      </ul>
 		    </div><!-- /.navbar-collapse -->
 		  </div><!-- /.container-fluid -->
