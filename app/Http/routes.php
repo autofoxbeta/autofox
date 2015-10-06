@@ -15,3 +15,7 @@ Route::get('/', 'LandingPageController@index');
 
 Route::post('/', 'LandingPageController@store');
 
+Route::get('contact', 'FormController@index');
+
+Route::post('contact', 'LandingPageController@store');
+
