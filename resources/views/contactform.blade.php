@@ -206,7 +206,7 @@
 					<p></p>
 				</div>
 				<div class="modal-footer">
-					<button type="button" class="btn btn-xl btn-primary-normal-negative" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-xl btn-primary-normal-negative" data-dismiss="modal" style="padding: 18px 20px;">Close</button>
 				</div>
 			</div><!-- /.modal-content -->
 		</div><!-- /.modal-dialog -->
