@@ -109,7 +109,7 @@
 						<div class="row" style="margin: 30px 0">
 							<div class="col-md-2 hidden-xs hidden-sm"></div>
 							<button class="btn btn-xl btn-primary-normal col-md-4 first col-md-offset-0 col-sm-8 col-xs-12 col-sm-offset-1" data-scroll-nav="1">Tell me more</button>
-							<button class="btn btn-xl btn-primary-negative col-md-4 col-md-offset-0 col-sm-8 col-xs-12 col-sm-offset-1" data-scroll-nav="5">Get started now</button>
+							<a href="contact"><button class="btn btn-xl btn-primary-negative col-md-4 col-md-offset-0 col-sm-8 col-xs-12 col-sm-offset-1">Get started now</button></a>
 							<div class="col-md-2 hidden-xs hidden-sm"></div>
 						</div>
 						<h4><a class="telephone">+1 800-779-1980</a></h4>
