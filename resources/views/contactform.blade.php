@@ -94,7 +94,7 @@
 		</nav>
 
 	<!-- Contact form -->
-	<section id="contactUs" class="contact-us parallax-window" data-parallax="scroll" data-image-src="assets/images/contact-form-background.jpg" data-speed="0.4" data-z-index="0" data-scroll-index="5">
+	<section id="contactUs" class="contact-us parallax-window" data-parallax="scroll" data-image-src="assets/images/contact-form-background.jpg" data-speed="0.4" data-z-index="0" data-scroll-index="5" style="padding-top:100px;">
 		<div class="container"> 
 
 			<div class="row">
