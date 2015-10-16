@@ -19,3 +19,9 @@ Route::get('contact', 'FormController@index');
 
 Route::post('contact', 'LandingPageController@store');
 
+Route::get('for-mechanics', 'ForMechanicsController@index');
+
+Route::post('for-mechanics', 'ForMechanicsController@store');
+
+
+
