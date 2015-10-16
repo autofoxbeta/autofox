@@ -16,15 +16,14 @@ $(document).ready(function() {
     	e.preventDefault();
   	});
 
-  	$("")
+  	$(".navbar-brand").click(function(event) {
+  		window.location.href = '/';
+  	});
 
 	$(window).scroll(function(){
 	    var scrollPos = $(document).scrollTop();
 
 	    if(scrollPos >= 100){
-	    	
-	    	
-
 	    	$(".logo-small").hide(0, function(){ // zmiana na wąski navbar
 	    		$(".navbar").removeClass("nav-static");
 	    		$(".navbar").addClass('navbar-fixed-top');
