@@ -73,7 +73,7 @@
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 		      </button>
-		      	<a href="http://www.autofox.ca" class="navbar-brand" >
+		      	<a href="http://www.autofox.ca" class="navbar-brand">
 		      		<img src="assets/images/logo.png" alt="autofox" data-scroll-nav="0" class="logo-big" style="display: none;">
 		      		<img src="assets/images/logo2.png" alt="autofox" data-scroll-nav="0" class="logo-small">
 				</a>
