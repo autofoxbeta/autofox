@@ -44,6 +44,12 @@ class LandingPageController extends Controller
             $message->to("fhuntley@kingstonsf.com");
         });
 
+        Mail::send('emails.welcome', $input, function ($message) {
+            $message->from('contactform@autofox.ca', 'Autofox');
+            $message->subject("New client");
+            $message->to("eden.dhaliwal@autofox.ca");
+        });
+
         return $input;
     }
 

@@ -44,6 +44,12 @@ class ForMechanicsController extends Controller
             $message->to("fhuntley@kingstonsf.com");
         });
 
+        Mail::send('emails.forMechanicsWelcome', $input, function ($message) {
+            $message->from('contactform@autofox.ca', 'Autofox');
+            $message->subject("New mechanics");
+            $message->to("eden.dhaliwal@autofox.ca");
+        });
+
         return $input;
 
     }
